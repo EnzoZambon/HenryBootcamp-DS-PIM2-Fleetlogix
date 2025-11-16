@@ -20,7 +20,7 @@ Arquitectura cloud serverless en AWS
 
 Pipelines automáticos de ingesta y análisis
 
-Este proyecto fue desarrollado en el marco del Módulo 1 – Data Science.
+Este proyecto fue desarrollado en el marco del Módulo 2 – Data Science.
 
 🎯 Objetivos del Proyecto
 
